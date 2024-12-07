@@ -1,7 +1,7 @@
 <div align="center">
 <h2 align="center"> Hi there 👋</h2>
 <p align="center">My name is leon and I'm a programmer and tinkerer. Find my projects under: 
-  <a href="www.leonluethi.com" target="_blank">www.leonluethi.com</a>
+  <a href="https://www.leonluethi.com/" target="_blank">www.leonluethi.com</a>
     </p>
 </div>
 
