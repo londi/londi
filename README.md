@@ -22,9 +22,8 @@
 </picture>
 </div>
 
-## Contact me
-
-<div align="left">
+<div align="center">
+  <h3 align="center">Contact me</h3>
 	<a href="https://leonluethi.com/contact/" target="_blank">
 		<img src="https://img.shields.io/static/v1?message=www.leonluethi.com&label=&color=111827&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
 	</a>
