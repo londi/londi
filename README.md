@@ -1,8 +1,8 @@
 <div align="center">
-  <h1 align="center"> Hi there 👋</h1>
+  <h1 align="center">Hi there 👋</h1>
   <p align="center">My name is leon and I'm a programmer and tinkerer. Find my projects under: 
     <a href="https://www.leonluethi.com/" target="_blank">www.leonluethi.com</a>
-      </p>
+	</p>
 </div>
   
 <div align="center">
@@ -15,6 +15,7 @@
 </div>
   
 <div align="center">
+	<h3 align="center">Github History</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/londi/londi/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/londi/londi/output/github-contribution-grid-snake.svg">
@@ -23,9 +24,9 @@
 </div>
 
 <div align="center">
-  <h3 align="center">Contact me</h3>
+	<h3 align="center">Contact me</h3>
 	<a href="https://leonluethi.com/contact/" target="_blank">
-		<img src="https://img.shields.io/static/v1?message=www.leonluethi.com&label=&color=111827&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
+		<img src="https://img.shields.io/static/v1?message=www.leonluethi.com&label=&color=#1f2937&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
 	</a>
 	<a href="https://www.linkedin.com/in/leon-luethi/" target="_blank">
 		<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
