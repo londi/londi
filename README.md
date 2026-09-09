@@ -1,8 +1,8 @@
 <div align="center">
   <h1 align="center">Hi there 👋</h1>
-  <p align="center">My name is leon and I'm a programmer and tinkerer. Find my projects under: 
-    <a href="https://www.leonluethi.com/" target="_blank">www.leonluethi.com</a>
-	</p>
+  <p align="center">
+	  My name is leon and I'm an IT Architect, programmer and tinkerer.
+  </p>
 </div>
 
 <div align="center">
